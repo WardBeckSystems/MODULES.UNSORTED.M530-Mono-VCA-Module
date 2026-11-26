@@ -33,7 +33,7 @@ Photo of the M530A mono VCA module component layout. Title block at bottom right
 - **Words (OCR):** 158 in 133 lines: FadeR · MASTER · GROUP · OFF · Gh}-AA S4z · 2CF_ · 2CF-GhT-AA · SWS · VBS 11-166 · EXT · 47/25 · 22/25
 - **Title block:** (194, 44)–(414, 335) mm: WBS · CANADA · 2 2/35 · 2.2/35 · IN4148 R62 #50 · C4B) · -R6s Ex R68 · 15k · R78 62x · Sk · 40K · TN4036 JOOK · 02 · 3904 · Reg · ISSUE · 353N · R87 · 2N3906 · 22k · R54 · R64 35k R92 · Zzk · R8S · R8
 
-Every curve, box, word and wire group: [19xx - 530-06-002 - MONO VCA MODULE COMPONENT LAYOUT - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20530-06-002%20-%20MONO%20VCA%20MODULE%20COMPONENT%20LAYOUT%20-%20ISS%201%20(traced).json) (the CAD file: `19xx - 530-06-002 - MONO VCA MODULE COMPONENT LAYOUT - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 530-06-002 - MONO VCA MODULE COMPONENT LAYOUT - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20530-06-002%20-%20MONO%20VCA%20MODULE%20COMPONENT%20LAYOUT%20-%20ISS%201%20%28traced%29.json) (the CAD file: `19xx - 530-06-002 - MONO VCA MODULE COMPONENT LAYOUT - ISS 1 (traced).dxf`).
 
 ## Full text
 
