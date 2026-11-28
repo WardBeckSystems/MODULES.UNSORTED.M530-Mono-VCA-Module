@@ -1,6 +1,6 @@
 # M530 Mono VCA Module · Unsorted
 
-Ward-Beck Systems M530. Wiki page: [M530 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M530.html)
+Ward-Beck Systems M530. Wiki page: [M530 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M530-Mono-VCA-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|

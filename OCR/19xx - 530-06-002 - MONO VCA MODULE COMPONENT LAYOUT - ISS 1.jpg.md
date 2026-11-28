@@ -1,5 +1,5 @@
 # 19xx - 530-06-002 - MONO VCA MODULE COMPONENT LAYOUT - ISS 1.jpg
-Wiki page: [M530](../../../../PAGES/M530.md)
+Wiki page: [M530](../)
 
 
 - **Year:** unknown (title block (read by eye))
